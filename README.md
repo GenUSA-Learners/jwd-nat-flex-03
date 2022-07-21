@@ -1,2 +1,3 @@
-# jwd-nat-flex-03
-Class repository for the jwd national flex 03 cohort
+# JWD Nat Flex 03
+
+Class repository for the JWD National Flex 03 cohort
